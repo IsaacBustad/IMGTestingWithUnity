@@ -1,0 +1,12 @@
+{
+  "name": "com.IsaacBustad.IMGTestingWithUnity",
+  "version": "1.0.0",
+  "displayName": "Image Testing Package",
+  "description": "A test of importing packages via GitHub",
+  "unity": "2022.3",
+  "author": {
+    "name": "Isaac Bustad",
+    "email": "",
+    "url": ""
+  }
+}
