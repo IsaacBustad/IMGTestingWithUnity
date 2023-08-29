@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "displayName": "Image Testing Package",
   "description": "A test of importing packages via GitHub",
-  "unity": "2022.3",
+  "unity": "2022.3.7f1",
   "author": {
     "name": "Isaac Bustad",
     "email": "ijbbustad@gmail.com",
