@@ -1,15 +1,12 @@
 {
-  "name": "IMGTestingWithUnity",
+  "name": "com.IsaacBustad.IMGTestingWithUnity",
   "version": "1.0.0",
   "displayName": "Image Testing Package",
-  
-  "unity": "2022.3",
-  "author": "name": "Isaac Bustad",
   "description": "A test of importing packages via GitHub",
-  "dependencies":{},
-  "repository":{
-    "type": "git",
+  "unity": "2022.3",
+  "author": {
+    "name": "Isaac Bustad",
+    "email": "ijbbustad@gmail.com",
     "url": "https://github.com/IsaacBustad/IMGTestingWithUnity.git"
   }
-  
 }
